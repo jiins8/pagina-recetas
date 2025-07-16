@@ -1,0 +1,11 @@
+.imagen_ingrediente, .imagen_receta{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+#imagen_principal{
+    width: 450px;
+    height: 350px;
+}
